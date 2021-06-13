@@ -1,0 +1,12 @@
+.col-10{
+    background-color: blueviolet;
+    margin: 20px;
+}
+.col-6{
+    background-color: chartreuse;
+    margin: 20px;
+}
+.col-4{
+    background-color: crimson;
+    margin: 20px;
+}
